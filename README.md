@@ -19,6 +19,10 @@
 - Recharts
 - Vercel (ホスティング)
 
+## 開発者
+Mitsutaka Ninomiya
+
+
 
 
 
