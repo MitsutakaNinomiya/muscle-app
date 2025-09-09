@@ -3,7 +3,23 @@
 # Muscle Log App
 筋トレ記録カレンダーアプリ
 
-👉 デモはこちら: https://muscle-app-five.vercel.app
+## デモ
+👉 https://muscle-app-five.vercel.app
+
+## 概要
+カレンダー形式で筋トレの重量・回数を記録できます。
+- 種目・重量・回数・メモを保存
+- ローカルストレージに永続化
+- CSV/JSON でエクスポート・インポート
+- ダッシュボードで30日の総ボリューム推移や種目別ベストを可視化
+
+## 技術スタック
+- React + TypeScript + Vite
+- Tailwind CSS
+- Recharts
+- Vercel (ホスティング)
+
+
 
 
 
